@@ -1,0 +1,812 @@
+[
+  {
+    "product": [
+      {
+        "id": "1915b1fe-9c07-41ab-aba9-b897f2594849",
+        "name": "SmartGadget",
+        "amaz_score": 65231,
+        "created_at": "2023-08-02T14:41:06.733Z",
+        "updated_at": "2023-08-01T18:41:13.351Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "4aae865f-6d2b-4790-9ae3-669b4b667e76",
+        "name": "EcoClean",
+        "amaz_score": 57545,
+        "created_at": "2023-08-02T04:43:13.072Z",
+        "updated_at": "2023-08-02T13:14:45.976Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "ff54a8a8-5b77-4b72-a229-b8c6b030d32b",
+        "name": "PowerBoost",
+        "amaz_score": 73587,
+        "created_at": "2023-08-02T12:53:53.028Z",
+        "updated_at": "2023-08-02T02:09:14.356Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "1072986d-8cd2-4533-a182-a912f859cd3a",
+        "name": "TechSaver",
+        "amaz_score": 90507,
+        "created_at": "2023-08-02T04:09:25.041Z",
+        "updated_at": "2023-08-01T17:27:45.243Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "b12bd5e3-b622-4e83-8ddb-ea5b8fc7ad4e",
+        "name": "InnoTech",
+        "amaz_score": 36397,
+        "created_at": "2023-08-02T02:19:43.911Z",
+        "updated_at": "2023-08-02T01:45:38.259Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "Renamedpackage": [
+      {
+        "id": "9804b0d8-5416-427f-8c88-04d321d219b4",
+        "name": "PackageX",
+        "created_at": "2023-08-01T18:49:43.434Z",
+        "updated_at": "2023-08-02T05:32:06.438Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "1457b5a0-9fb1-4466-b7c6-ef2f5fee6996",
+        "name": "SolutionPlus",
+        "created_at": "2023-08-01T18:11:48.771Z",
+        "updated_at": "2023-08-02T17:10:11.780Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "15d22a89-cf53-4480-a44f-5d23cf7b710e",
+        "name": "InnoPack",
+        "created_at": "2023-08-02T08:17:14.110Z",
+        "updated_at": "2023-08-02T06:21:30.177Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "c152f9a7-e93f-465a-98d8-6b66fa795aa2",
+        "name": "TechConnect",
+        "created_at": "2023-08-02T08:22:46.443Z",
+        "updated_at": "2023-08-01T23:37:05.374Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "dea632d2-0236-4dd2-a531-21639e97f9f9",
+        "name": "RevolutionX",
+        "created_at": "2023-08-01T17:39:13.679Z",
+        "updated_at": "2023-08-02T01:04:42.305Z",
+        "startup_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "9b2cbb61-9ff4-4ba7-8fe3-dcd4e380edfe",
+        "name": "SmartGadget",
+        "amaz_score": 36370,
+        "created_at": "2023-08-02T15:30:15.726Z",
+        "updated_at": "2023-08-01T21:43:21.133Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "2a683672-6e14-496e-804a-75fe86976f04",
+        "name": "EcoClean",
+        "amaz_score": 67303,
+        "created_at": "2023-08-01T22:39:45.165Z",
+        "updated_at": "2023-08-02T10:13:05.377Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "21f1d218-0225-412a-bb89-07285ad9a93f",
+        "name": "PowerBoost",
+        "amaz_score": 32499,
+        "created_at": "2023-08-01T22:15:22.024Z",
+        "updated_at": "2023-08-01T23:14:48.141Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "603737c6-79e9-4da6-bd4e-e17685a22bd4",
+        "name": "TechSaver",
+        "amaz_score": 73043,
+        "created_at": "2023-08-02T00:42:04.720Z",
+        "updated_at": "2023-08-02T04:00:27.546Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "372d4bff-da00-4050-b88c-0e2261d07eb4",
+        "name": "InnoTech",
+        "amaz_score": 90054,
+        "created_at": "2023-08-02T02:21:39.446Z",
+        "updated_at": "2023-08-02T10:13:23.812Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "Renamedpackage": [
+      {
+        "id": "c0b1f0c8-dd89-4391-8ce2-e97f17fc51bc",
+        "name": "PackageX",
+        "created_at": "2023-08-02T07:32:37.637Z",
+        "updated_at": "2023-08-02T04:44:19.951Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "1278dd01-393c-42e4-b166-81ce0bab1d44",
+        "name": "SolutionPlus",
+        "created_at": "2023-08-02T11:49:27.487Z",
+        "updated_at": "2023-08-01T23:25:46.040Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "a616bdd3-376a-47b7-893b-effbaacfe9c1",
+        "name": "InnoPack",
+        "created_at": "2023-08-02T06:01:01.159Z",
+        "updated_at": "2023-08-01T23:25:53.977Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "1fff939d-3448-4006-8a2c-dd96573911d6",
+        "name": "TechConnect",
+        "created_at": "2023-08-01T21:48:14.724Z",
+        "updated_at": "2023-08-01T23:53:50.532Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "bcdc5551-d973-423c-934a-e859a3c1c716",
+        "name": "RevolutionX",
+        "created_at": "2023-08-02T09:10:17.750Z",
+        "updated_at": "2023-08-01T22:39:13.388Z",
+        "startup_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "5e5339ad-afd5-4364-bfb7-d46b4e8c1b76",
+        "name": "SmartGadget",
+        "amaz_score": 46046,
+        "created_at": "2023-08-02T05:43:56.348Z",
+        "updated_at": "2023-08-01T18:31:36.030Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "6faa1238-256c-4799-ac2b-f26d6e6859d0",
+        "name": "TechMaster",
+        "amaz_score": 49362,
+        "created_at": "2023-08-01T23:49:16.515Z",
+        "updated_at": "2023-08-01T18:34:05.170Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "3bf1237f-f130-43e8-9755-0689d9f3c47e",
+        "name": "InnovatePro",
+        "amaz_score": 61605,
+        "created_at": "2023-08-01T18:16:14.552Z",
+        "updated_at": "2023-08-01T21:52:50.784Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "70364412-b7de-45e6-9876-3a84b8586a60",
+        "name": "RevolutionX",
+        "amaz_score": 3453,
+        "created_at": "2023-08-01T22:39:15.252Z",
+        "updated_at": "2023-08-02T08:18:15.955Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "721267ba-8fdb-4bce-8b11-19cdb4f7c948",
+        "name": "ElevateTech",
+        "amaz_score": 22018,
+        "created_at": "2023-08-02T04:27:46.682Z",
+        "updated_at": "2023-08-02T09:34:38.039Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "Renamedpackage": [
+      {
+        "id": "6b4de133-ad17-48ea-8c72-9a3c0fc8f7bb",
+        "name": "RenamedPackage1",
+        "created_at": "2023-08-02T03:45:20.519Z",
+        "updated_at": "2023-08-02T09:10:32.942Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "37fdc1a8-9a51-4959-8658-2aef6fa3f8ac",
+        "name": "RenamedPackage2",
+        "created_at": "2023-08-01T21:05:56.063Z",
+        "updated_at": "2023-08-02T06:33:32.277Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "a2207ffc-2ca9-4141-884c-cb3890651c7a",
+        "name": "RenamedPackage3",
+        "created_at": "2023-08-02T03:48:11.476Z",
+        "updated_at": "2023-08-02T07:13:39.064Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "16cc2362-680b-46d4-abbc-a08f4ffc9a85",
+        "name": "RenamedPackage4",
+        "created_at": "2023-08-02T01:07:14.802Z",
+        "updated_at": "2023-08-02T15:28:41.481Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "a5635f97-b9ea-466d-bc2a-94e9133f4b83",
+        "name": "RenamedPackage5",
+        "created_at": "2023-08-01T21:20:56.911Z",
+        "updated_at": "2023-08-02T02:18:44.080Z",
+        "startup_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "f08f91e2-4c14-4b4b-9a12-bd8eebceec4b",
+        "name": "SmartGadget",
+        "amaz_score": 18281,
+        "created_at": "2023-08-02T16:05:22.042Z",
+        "updated_at": "2023-08-02T01:51:17.998Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "bae89128-32eb-4f82-9d6d-5a6350e46820",
+        "name": "EcoClean",
+        "amaz_score": 60650,
+        "created_at": "2023-08-01T21:54:00.868Z",
+        "updated_at": "2023-08-02T15:13:46.619Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "0eadab0b-e12a-4e79-a97c-413c70f0426d",
+        "name": "PowerBoost",
+        "amaz_score": 38544,
+        "created_at": "2023-08-02T16:54:43.561Z",
+        "updated_at": "2023-08-02T08:04:08.658Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "9ff8f959-f3ef-47e1-aebc-3bf67ad55598",
+        "name": "TechSaver",
+        "amaz_score": 59097,
+        "created_at": "2023-08-01T22:14:53.333Z",
+        "updated_at": "2023-08-02T11:09:53.214Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "f5837c86-ff75-4780-b683-eab6c232a7f7",
+        "name": "InnoTech",
+        "amaz_score": 49357,
+        "created_at": "2023-08-02T02:38:25.290Z",
+        "updated_at": "2023-08-02T16:32:28.967Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "Renamedpackage": [
+      {
+        "id": "337829c7-8318-49ac-9013-7f5fe466e348",
+        "name": "PackageX",
+        "created_at": "2023-08-02T12:31:06.390Z",
+        "updated_at": "2023-08-02T11:44:12.907Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "cd5baee0-7e10-4dde-999a-f515dcfbc4c4",
+        "name": "SolutionPlus",
+        "created_at": "2023-08-02T09:22:17.254Z",
+        "updated_at": "2023-08-02T11:55:44.424Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "4db5ad00-c37c-42b7-8c8f-23fee97e89db",
+        "name": "InnoPack",
+        "created_at": "2023-08-02T00:09:31.673Z",
+        "updated_at": "2023-08-01T22:26:18.677Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "acdadd68-1527-41ec-82bd-8f5686864d75",
+        "name": "TechConnect",
+        "created_at": "2023-08-01T17:55:15.354Z",
+        "updated_at": "2023-08-02T12:54:36.523Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "3447f117-6352-498a-840b-729daef970d4",
+        "name": "RevolutionX",
+        "created_at": "2023-08-02T15:32:23.051Z",
+        "updated_at": "2023-08-02T00:46:07.713Z",
+        "startup_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "1c22e90f-1de1-4672-9d63-26fc28e3edf1",
+        "name": "SmartGadget",
+        "amaz_score": 19484,
+        "created_at": "2023-08-02T13:23:00.879Z",
+        "updated_at": "2023-08-01T23:56:49.565Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "eacfad0f-c847-4651-8f68-b7763271db0e",
+        "name": "TechMaster",
+        "amaz_score": 80336,
+        "created_at": "2023-08-02T04:21:41.234Z",
+        "updated_at": "2023-08-01T20:04:03.693Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "ca567330-ba31-4031-9b68-b2bbbb8fd884",
+        "name": "InnovativeTool",
+        "amaz_score": 54616,
+        "created_at": "2023-08-01T20:43:07.768Z",
+        "updated_at": "2023-08-02T05:26:03.903Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "971f7dd4-1ccc-4723-aa85-e405889ae7c5",
+        "name": "RevolutionaryDevice",
+        "amaz_score": 29085,
+        "created_at": "2023-08-02T07:32:37.841Z",
+        "updated_at": "2023-08-02T08:51:21.385Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "4f43d942-a6c9-4ad4-b2ee-89dd9fa349e6",
+        "name": "GameChanger",
+        "amaz_score": 49955,
+        "created_at": "2023-08-02T15:06:16.637Z",
+        "updated_at": "2023-08-02T04:06:32.818Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "Renamedpackage": [
+      {
+        "id": "344c4274-c9f5-4f40-9bd7-80f3fab8c8c3",
+        "name": "RenamedPackage1",
+        "created_at": "2023-08-02T12:11:09.430Z",
+        "updated_at": "2023-08-01T17:31:53.568Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "4bdc8ba9-e133-415c-86e5-d61c554dd86d",
+        "name": "RenamedPackage2",
+        "created_at": "2023-08-02T00:04:09.485Z",
+        "updated_at": "2023-08-02T07:51:35.001Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "ed8f778e-8953-4e8a-a8a2-c9218336b2de",
+        "name": "RenamedPackage3",
+        "created_at": "2023-08-01T23:54:02.720Z",
+        "updated_at": "2023-08-02T08:48:50.807Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "5fd37613-3fb0-4c66-8321-d901c70e98d3",
+        "name": "RenamedPackage4",
+        "created_at": "2023-08-02T00:28:44.145Z",
+        "updated_at": "2023-08-01T19:38:48.161Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "4f65409b-fde8-4345-93e5-e77a0bce13c6",
+        "name": "RenamedPackage5",
+        "created_at": "2023-08-02T03:20:15.195Z",
+        "updated_at": "2023-08-01T22:17:44.644Z",
+        "startup_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "e37ffa50-4743-466f-bf77-498c4024eca1",
+        "name": "SmartGadget",
+        "amaz_score": 97932,
+        "created_at": "2023-08-02T12:20:33.674Z",
+        "updated_at": "2023-08-02T17:19:35.436Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "b059aa4e-584f-4138-92f3-7eb591c985b6",
+        "name": "EcoClean",
+        "amaz_score": 64491,
+        "created_at": "2023-08-02T16:17:03.396Z",
+        "updated_at": "2023-08-02T05:01:25.120Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "680a295e-c319-4435-a462-1405661cf1a7",
+        "name": "PowerBoost",
+        "amaz_score": 98584,
+        "created_at": "2023-08-01T22:36:39.432Z",
+        "updated_at": "2023-08-01T21:03:08.105Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "a3cb694c-2baf-4224-8ec4-6fd4321dfbe2",
+        "name": "SecureGuard",
+        "amaz_score": 99392,
+        "created_at": "2023-08-02T14:41:13.682Z",
+        "updated_at": "2023-08-02T04:02:02.930Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "5b4be44f-82c2-4ca3-8a8f-f2c8c888a905",
+        "name": "HealthTrack",
+        "amaz_score": 27128,
+        "created_at": "2023-08-01T21:48:13.218Z",
+        "updated_at": "2023-08-02T14:37:20.367Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "Renamedpackage": [
+      {
+        "id": "715c223d-4f5a-4d00-94e7-cc86e5bb52e8",
+        "name": "PackageX",
+        "created_at": "2023-08-02T10:59:34.094Z",
+        "updated_at": "2023-08-02T00:49:15.266Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "186f14e3-f0df-459b-bdba-f14abfab9b1d",
+        "name": "PackageY",
+        "created_at": "2023-08-01T23:39:32.487Z",
+        "updated_at": "2023-08-01T18:31:47.376Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "9e57fe76-63b2-4bfa-b67d-98825535b086",
+        "name": "PackageZ",
+        "created_at": "2023-08-02T03:36:37.984Z",
+        "updated_at": "2023-08-02T11:49:00.309Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "bdac2c60-c8ab-449a-a446-bad8ccf49c81",
+        "name": "PackageA",
+        "created_at": "2023-08-01T22:04:32.756Z",
+        "updated_at": "2023-08-02T05:12:00.475Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "7cef1259-08ba-4b5f-9813-05ce774e1cfc",
+        "name": "PackageB",
+        "created_at": "2023-08-02T03:00:26.443Z",
+        "updated_at": "2023-08-02T07:31:22.787Z",
+        "startup_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "d3a84ee4-0f06-47f3-a20c-8a489a261d39",
+        "name": "SmartGadget",
+        "amaz_score": 70598,
+        "created_at": "2023-08-02T05:38:38.137Z",
+        "updated_at": "2023-08-01T18:05:43.827Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "a3cef60a-dd67-48c8-aee3-6fd36aff4c04",
+        "name": "TechMaster",
+        "amaz_score": 80524,
+        "created_at": "2023-08-02T17:22:53.835Z",
+        "updated_at": "2023-08-02T07:11:42.964Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "43768d66-12a7-484d-b262-412fac95a229",
+        "name": "InnovativeTool",
+        "amaz_score": 83382,
+        "created_at": "2023-08-01T17:53:11.555Z",
+        "updated_at": "2023-08-01T22:10:02.863Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "1fba5638-540a-4e1b-becb-23eb1bfca0c4",
+        "name": "RevolutionaryDevice",
+        "amaz_score": 78192,
+        "created_at": "2023-08-01T20:08:25.023Z",
+        "updated_at": "2023-08-02T02:57:44.107Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "e1be2259-66c1-42a4-81a3-ff320a3b53b3",
+        "name": "GameChanger",
+        "amaz_score": 82580,
+        "created_at": "2023-08-02T07:15:14.256Z",
+        "updated_at": "2023-08-01T21:23:05.725Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "Renamedpackage": [
+      {
+        "id": "156c6ef7-99f6-4c97-8ee1-a31977956a86",
+        "name": "RenamedPackage1",
+        "created_at": "2023-08-01T21:07:49.408Z",
+        "updated_at": "2023-08-02T05:06:20.626Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "708ec70e-a094-4445-84be-643042c2db33",
+        "name": "RenamedPackage2",
+        "created_at": "2023-08-02T10:10:35.456Z",
+        "updated_at": "2023-08-02T01:43:24.608Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "7f825309-8bab-4cd3-a746-3d8eecb4708d",
+        "name": "RenamedPackage3",
+        "created_at": "2023-08-01T20:28:29.053Z",
+        "updated_at": "2023-08-02T02:27:04.121Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "4393128a-2f02-498e-a191-fb7645d88a0a",
+        "name": "RenamedPackage4",
+        "created_at": "2023-08-02T06:10:09.301Z",
+        "updated_at": "2023-08-02T00:28:40.334Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "72b8bb52-9d10-4b66-87db-2d6c4057afb6",
+        "name": "RenamedPackage5",
+        "created_at": "2023-08-02T06:38:40.526Z",
+        "updated_at": "2023-08-01T23:40:09.602Z",
+        "startup_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "d98f1012-1a0c-4a80-a832-2e81acbe2aaf",
+        "name": "SmartGadget",
+        "amaz_score": 4076,
+        "created_at": "2023-08-01T21:12:53.469Z",
+        "updated_at": "2023-08-01T17:45:47.033Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "6e6e33cf-1c12-46b3-8c76-87ce25f796cb",
+        "name": "TechMaster",
+        "amaz_score": 94401,
+        "created_at": "2023-08-02T15:00:43.143Z",
+        "updated_at": "2023-08-02T09:11:56.866Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "89ebc326-2ee7-4b46-90c4-c3ac3b4cdd19",
+        "name": "InnovativeTool",
+        "amaz_score": 22773,
+        "created_at": "2023-08-02T17:11:11.932Z",
+        "updated_at": "2023-08-01T21:03:17.027Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "40be4b33-5be8-4c64-a36b-b2a458ca6887",
+        "name": "RevolutionaryDevice",
+        "amaz_score": 74879,
+        "created_at": "2023-08-02T04:51:53.513Z",
+        "updated_at": "2023-08-02T11:41:55.268Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "65c6636d-67d5-4157-ad59-5400d67f34ba",
+        "name": "GameChanger",
+        "amaz_score": 73922,
+        "created_at": "2023-08-01T23:27:14.875Z",
+        "updated_at": "2023-08-02T15:29:24.783Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "Renamedpackage": [
+      {
+        "id": "9d9c8c8e-379a-4dd9-850c-f8fd8f73c823",
+        "name": "RenamedPackage1",
+        "created_at": "2023-08-01T19:47:47.987Z",
+        "updated_at": "2023-08-01T21:27:00.792Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "32f61aaa-73b5-4a88-9448-2f7564dc59fb",
+        "name": "RenamedPackage2",
+        "created_at": "2023-08-02T11:54:37.671Z",
+        "updated_at": "2023-08-02T09:08:51.038Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "0895c817-4d6b-4c0c-b585-a3354eb8361a",
+        "name": "RenamedPackage3",
+        "created_at": "2023-08-02T07:14:17.482Z",
+        "updated_at": "2023-08-02T07:35:02.824Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "5ec7d001-18ef-4804-ad5c-e8d63f930caf",
+        "name": "RenamedPackage4",
+        "created_at": "2023-08-01T23:11:46.412Z",
+        "updated_at": "2023-08-02T15:38:50.174Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "0e0e32f2-b469-4537-8d91-6dc007b180a2",
+        "name": "RenamedPackage5",
+        "created_at": "2023-08-01T18:24:21.997Z",
+        "updated_at": "2023-08-01T23:46:33.423Z",
+        "startup_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "2949f903-ff4d-46ee-806f-9e5124c62cce",
+        "name": "SmartWatch",
+        "amaz_score": 9349,
+        "created_at": "2023-08-01T18:48:27.363Z",
+        "updated_at": "2023-08-02T01:14:14.101Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "aea2fac5-5458-41a1-b442-43f9977c3cd2",
+        "name": "WirelessHeadphones",
+        "amaz_score": 22891,
+        "created_at": "2023-08-01T21:53:31.250Z",
+        "updated_at": "2023-08-01T23:22:30.930Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "3fb26088-252c-4842-aff6-e9a821f73936",
+        "name": "PortableCharger",
+        "amaz_score": 43899,
+        "created_at": "2023-08-02T00:19:16.180Z",
+        "updated_at": "2023-08-02T16:42:07.122Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "8367e19c-3a61-4774-bdb8-f035706b08d4",
+        "name": "BluetoothSpeaker",
+        "amaz_score": 97106,
+        "created_at": "2023-08-02T09:01:24.744Z",
+        "updated_at": "2023-08-02T11:46:10.222Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "1004e0dc-8eed-4f86-8cae-97bc129c4ec2",
+        "name": "FitnessTracker",
+        "amaz_score": 54360,
+        "created_at": "2023-08-02T02:40:18.998Z",
+        "updated_at": "2023-08-02T02:55:09.492Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "Renamedpackage": [
+      {
+        "id": "c0c6881e-aec4-40f9-b4c1-10db9ab5c4b1",
+        "name": "PackageA",
+        "created_at": "2023-08-02T08:11:27.905Z",
+        "updated_at": "2023-08-02T01:52:25.130Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "6d18d9a7-2a16-444a-b870-f4def9d64b0b",
+        "name": "PackageB",
+        "created_at": "2023-08-02T06:54:03.558Z",
+        "updated_at": "2023-08-01T22:37:00.514Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "6068bf76-956c-4948-a147-7cb408bac7da",
+        "name": "PackageC",
+        "created_at": "2023-08-02T01:24:29.929Z",
+        "updated_at": "2023-08-02T16:21:23.663Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "6b0bc823-096b-470d-83e6-f5d39dc14003",
+        "name": "PackageD",
+        "created_at": "2023-08-02T10:26:38.710Z",
+        "updated_at": "2023-08-01T21:21:07.127Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "5af95d44-1806-495f-96a7-2ecc3f028a97",
+        "name": "PackageE",
+        "created_at": "2023-08-02T13:37:24.281Z",
+        "updated_at": "2023-08-02T08:24:54.715Z",
+        "startup_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "product": [
+      {
+        "id": "fd19d94c-e089-4c38-8fb9-c29f1ae1aad8",
+        "name": "SmartGadget",
+        "amaz_score": 33022,
+        "created_at": "2023-08-02T11:19:07.316Z",
+        "updated_at": "2023-08-01T17:38:52.769Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "4e9f2706-439a-454d-ab5b-bf73f2fa528d",
+        "name": "TechMaster",
+        "amaz_score": 25467,
+        "created_at": "2023-08-02T13:49:15.079Z",
+        "updated_at": "2023-08-01T22:17:16.092Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "8a21bcf8-eac8-4343-b993-865831a7d9d7",
+        "name": "InnovativeTool",
+        "amaz_score": 97620,
+        "created_at": "2023-08-02T01:04:07.009Z",
+        "updated_at": "2023-08-02T15:05:05.510Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "595e42f0-a2bd-4aa4-afaf-271708a58311",
+        "name": "RevolutionaryDevice",
+        "amaz_score": 74842,
+        "created_at": "2023-08-02T02:31:08.043Z",
+        "updated_at": "2023-08-02T08:22:41.236Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "6cbc8621-46a0-457a-b451-a3d8bff6643d",
+        "name": "GameChanger",
+        "amaz_score": 26486,
+        "created_at": "2023-08-02T08:58:23.539Z",
+        "updated_at": "2023-08-02T11:59:20.505Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "Renamedpackage": [
+      {
+        "id": "f1f8e274-d336-4853-a56c-c85255e4d11d",
+        "name": "PackageX",
+        "created_at": "2023-08-01T21:31:09.189Z",
+        "updated_at": "2023-08-02T12:46:08.808Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "9c8a9ba7-1f6a-461f-952a-c8763fcde831",
+        "name": "PackageY",
+        "created_at": "2023-08-02T11:45:27.389Z",
+        "updated_at": "2023-08-01T23:47:52.689Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "6c1d87c5-bc01-451e-b032-db8063a1de61",
+        "name": "PackageZ",
+        "created_at": "2023-08-02T09:17:56.398Z",
+        "updated_at": "2023-08-02T09:09:27.016Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "427f06d0-aa70-4628-bea4-5d28229bc4d6",
+        "name": "PackageA",
+        "created_at": "2023-08-02T06:49:02.206Z",
+        "updated_at": "2023-08-02T02:26:41.068Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "40115c8e-0364-427e-bb54-0ee1ecaf7dfc",
+        "name": "PackageB",
+        "created_at": "2023-08-01T17:57:16.073Z",
+        "updated_at": "2023-08-02T01:18:31.214Z",
+        "startup_id": "main_entity_pk"
+      }
+    ]
+  }
+]
